@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Bloodring Filter
+## Author: |cffbe5effLexie
+## Notes: Filters the spam messages when Bloodring starts
+## Version: 1
+## DefaultState: enabled
+BloodringFilter.lua
